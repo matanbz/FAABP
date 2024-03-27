@@ -1,5 +1,5 @@
 # FAABP
-A multi-agent based simulation code combining a physics engine and logic and communication
+A multi-agent based simulation code combining a physics engine and logic and communication of a heterogenous swarm
 
 greens.py - sets the "green function" for the interaction (choice of function sets boundary condition, type of interaction, potential etc.)
 timepropogation.py - has the runge kutta integrator
